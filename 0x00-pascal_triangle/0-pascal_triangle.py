@@ -1,16 +1,14 @@
 #!/usr/bin/python3
-'''Module to find Pascal's Triangle integers'''
+'''Module to find Pascal's Triangle'''
 
 
 def pascal_triangle(n):
     '''
-    Function to find Pascal's Triangle integers
-
+    Function to find Pascal's Triangle
         Parameters:
-            n (int): The number of row's of Pascal's triangle
-
+            n : number of row's of Pascal's triangle
         Returns:
-            pascal_triangle (list): Binary string of the sum of a and b
+            pascal_triangle : Binary string of the sum of a and b
     '''
     pascal_triangle = list()
 
